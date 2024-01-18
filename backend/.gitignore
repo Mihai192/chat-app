@@ -1,0 +1,6 @@
+/node_modules
+/dist
+./src/firebase.ts
+./firebase-credentials.json
+./src/smsAPIsettings.ts
+./storage
